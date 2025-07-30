@@ -1,6 +1,6 @@
 Name:           mesa-panfrost
 Version:        23.0.0
-Release:        1.aarch64
+Release:        1%{?dist}
 Summary:        Mesa Panfrost driver for aarch64 (no Vulkan, no LLVM)
 
 License:        MIT
